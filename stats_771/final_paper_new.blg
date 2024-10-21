@@ -1,0 +1,18 @@
+[0] Config.pm:307> INFO - This is Biber 2.19
+[0] Config.pm:310> INFO - Logfile is 'final_paper_new.blg'
+[143] biber-MSWIN64:340> INFO - === 
+[202] Biber.pm:419> INFO - Reading 'final_paper_new.bcf'
+[534] Biber.pm:979> INFO - Found 31 citekeys in bib section 0
+[553] Biber.pm:4419> INFO - Processing section 0
+[568] Biber.pm:4610> INFO - Looking for bibtex file 'refs.bib' for section 0
+[639] bibtex.pm:1713> INFO - LaTeX decoding ...
+[694] bibtex.pm:1519> INFO - Found BibTeX data source 'refs.bib'
+[1068] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[1068] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'level = 4' with 'level = 2'
+[1068] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[1069] Biber.pm:4239> INFO - Sorting list 'cms/global//global/global' of type 'entry' with template 'cms' and locale 'en-US'
+[1069] Biber.pm:4245> INFO - No sort tailoring available for locale 'en-US'
+[1126] bbl.pm:660> INFO - Writing 'final_paper_new.bbl' with encoding 'UTF-8'
+[1153] bbl.pm:763> INFO - Output to final_paper_new.bbl
+[1153] Biber.pm:131> WARN - legacy month field 'Feb' in entry 'stewart_2023' is not an integer - this will probably not sort properly.
+[1153] Biber.pm:133> INFO - WARNINGS: 1
